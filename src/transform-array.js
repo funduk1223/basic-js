@@ -23,7 +23,7 @@ module.exports = function transform(arr) {
    
       map.set(key, undefined);
       map.set(key+1, undefined);
-      console.log(map);
+      //console.log(map);
     }
     if (value === disPrev ){
       
